@@ -8,4 +8,7 @@ Hit했을 때 카드의 총합이 21이 넘어 간다면 Bust되어 바로 패�
 Stay는 카드를 그만 받고자 할 경우 선택하며 딜러의 손패의 카드 합과 자신의 합을 비교하여 더 높은 쪽이 승리하게 된다.   
 
 게임 설명 - https://namu.wiki/w/%EB%B8%94%EB%9E%99%EC%9E%AD(%EC%B9%B4%EB%93%9C%EA%B2%8C%EC%9E%84)#s-4.1
-
+<div style="display:flex">
+<img src="https://user-images.githubusercontent.com/49472611/163669979-848de4f3-fb56-4f0a-8060-4bf82e6ee3a1.png"  width="500" height="270">
+<img src="https://user-images.githubusercontent.com/49472611/163669982-e1eed9bc-9e21-4836-90c2-31bded7d8c5f.png"  width="500" height="270">
+<div/>
